@@ -1,1 +1,1 @@
-[Genius-test](https://github.com/Dmutro1985/genius-homework.git)<br>
+[Genius-test](https://github.com/Dmutro1985/Genius-test.git)<br>
