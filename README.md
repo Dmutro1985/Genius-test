@@ -5,8 +5,8 @@
 Сучасна пекарня – це веб-додаток, розроблений для пекарні. Проєкт надає клієнтам зручний інтерфейс для ознайомлення з продукцією, контакти, шеф-повари.
 
 [Посилання]([https://dmutro1985.github.io/Genius-test/)]
-[Посилання]([(https://dmutro1985.github.io/Genius-test/))
-
+[Посилання](https://dmutro1985.github.io/Genius-test/)
+[Посилання](https://Dmutro1985.github.io/genius-homework/genius-homework-4/)
 Демо: Переглянути проєкт
 
 Репозиторій: GitHub
